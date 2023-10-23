@@ -8,11 +8,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>core</artifactId>
+	<packaging>jar</packaging>
+	
 	<dependencies>
-		<dependency>
-			<groupId>com.haktor</groupId>
-			<artifactId>parent</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 </project>
